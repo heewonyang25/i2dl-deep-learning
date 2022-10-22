@@ -1,0 +1,6 @@
+batch_size: 32
+learning_rate: 0.01
+n_hidden2: 2048
+scheduler_factor: 0.001
+scheduler_patience: 2
+weight_decay: 1.0e-05
