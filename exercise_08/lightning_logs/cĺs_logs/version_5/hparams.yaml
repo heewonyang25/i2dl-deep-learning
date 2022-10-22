@@ -1,0 +1,3 @@
+batch_size: 128
+n_hidden1: 512
+n_hidden2: 128

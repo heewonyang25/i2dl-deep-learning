@@ -1,0 +1,5 @@
+batch_size: 32
+learning_rate: 0.001
+n_hidden_decoder: 1024
+n_hidden_encoder: 2048
+weight_decay: 1.0e-05
